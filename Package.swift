@@ -9,7 +9,7 @@ let package = Package(
         .macOS(.v15),
     ],
     dependencies: [
-        .package(path: "/Users/joannisorlandos/git/orlandos-nl/ikigajson"),
+        .package(url: "https://github.com/orlandos-nl/IkigaJSON.git", branch: "jo/embedded-swift-and-6"),
         .package(url: "https://github.com/apple/swift-nio.git", from: "2.66.0"),
     ],
     targets: [

@@ -1,0 +1,3458 @@
+{
+    "Crucis Sector MN-T b3-2": {
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Hydrae Sector DQ-Y b1": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": []
+    },
+    "Col 285 Sector IY-V b17-0": {
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 10
+    },
+    "Crucis Sector ER-V b2-0": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 17,
+        "bodies": []
+    },
+    "LTT 2952": {
+        "landablePlanetsCount": 9,
+        "bodies": [
+            {
+                "type": "",
+                "gravity": 0.07750799300184111,
+                "isLandable": true,
+                "systemName": "LTT 2952",
+                "distanceToArrival": 2237,
+                "name": "LTT 2952 5 a"
+            },
+            {
+                "systemName": "LTT 2952",
+                "distanceToArrival": 1520,
+                "type": "",
+                "gravity": 0.639230613130418,
+                "name": "LTT 2952 3",
+                "isLandable": false
+            },
+            {
+                "gravity": 0.08956536252610275,
+                "name": "LTT 2952 4 c",
+                "systemName": "LTT 2952",
+                "distanceToArrival": 2211,
+                "isLandable": true,
+                "type": ""
+            },
+            {
+                "distanceToArrival": 2202,
+                "type": "",
+                "gravity": 0.08196762072322043,
+                "isLandable": true,
+                "name": "LTT 2952 4 b",
+                "systemName": "LTT 2952"
+            },
+            {
+                "isLandable": true,
+                "name": "LTT 2952 4 a",
+                "gravity": 0.07077647543750486,
+                "systemName": "LTT 2952",
+                "type": "",
+                "distanceToArrival": 2207
+            },
+            {
+                "isLandable": true,
+                "gravity": 0.055058664240969175,
+                "name": "LTT 2952 5 b",
+                "distanceToArrival": 2237,
+                "type": "",
+                "systemName": "LTT 2952"
+            },
+            {
+                "name": "LTT 2952 6 d",
+                "isLandable": true,
+                "gravity": 0.04445930561505034,
+                "distanceToArrival": 2909,
+                "type": "",
+                "systemName": "LTT 2952"
+            },
+            {
+                "systemName": "LTT 2952",
+                "type": "",
+                "isLandable": true,
+                "name": "LTT 2952 6 b",
+                "distanceToArrival": 2912,
+                "gravity": 0.06483525468485118
+            },
+            {
+                "name": "LTT 2952 6 a",
+                "gravity": 0.06332644575113366,
+                "systemName": "LTT 2952",
+                "distanceToArrival": 2912,
+                "type": "",
+                "isLandable": true
+            },
+            {
+                "name": "LTT 2952 6 c",
+                "type": "",
+                "isLandable": true,
+                "distanceToArrival": 2919,
+                "systemName": "LTT 2952",
+                "gravity": 0.06715132760532525
+            }
+        ],
+        "closePlanets": 0,
+        "bodyCount": 22
+    },
+    "Crucis Sector KX-T b3-4": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 10
+    },
+    "Crucis Sector NC-V b2-0": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 15,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Alrai Sector NX-T b3-2": {
+        "closePlanets": 0,
+        "bodyCount": 14,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LTT 7072": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 28
+    },
+    "Alrai Sector FG-X b1-5": {
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector QI-T b3-1": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 8,
+        "landablePlanetsCount": 0
+    },
+    "Col 285 Sector JX-Y b15-0": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Alrai Sector BQ-Y d72": {
+        "bodyCount": 5,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector PS-U b2-1": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 9
+    },
+    "Kapteyn's Star": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 8
+    },
+    "Wolf 1478": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector UO-R b4-2": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 16,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector MI-T b3-7": {
+        "closePlanets": 0,
+        "bodyCount": 15,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "V463 Carinae": {
+        "bodyCount": 34,
+        "landablePlanetsCount": 1,
+        "bodies": [
+            {
+                "distanceToArrival": 384,
+                "name": "V463 Carinae A 1 a",
+                "type": "",
+                "systemName": "V463 Carinae",
+                "isLandable": true,
+                "gravity": 0.061660081259155536
+            }
+        ],
+        "closePlanets": 1
+    },
+    "Antliae Sector JC-V b2-4": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 11,
+        "bodies": []
+    },
+    "Shui Wei Sector FH-U b3-4": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 16
+    },
+    "V430 Puppis": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": []
+    },
+    "Puppis Sector OX-U b2-0": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 9
+    },
+    "Alrai Sector FG-X b1-6": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "bodies": []
+    },
+    "Crucis Sector FQ-Y b2": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LHS 281": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector EL-Y c17": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector FB-X b1-0": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 10
+    },
+    "Alrai Sector OC-V b2-8": {
+        "bodyCount": 11,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "LTT 6988": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 9,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector NN-T b3-4": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 13,
+        "closePlanets": 0
+    },
+    "Col 285 Sector SY-R d4-117": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 18,
+        "bodies": []
+    },
+    "Shui Wei Sector JN-S b4-4": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 6,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Puppis Sector OX-U b2-1": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 10
+    },
+    "Puppis Sector FW-W c1-23": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LHS 1939": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 18,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Wolf 515": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 9,
+        "bodies": []
+    },
+    "Crucis Sector ST-R b4-2": {
+        "bodies": [],
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector MC-V b2-4": {
+        "bodyCount": 7,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Ross 903": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 8
+    },
+    "Ross 985": {
+        "bodies": [],
+        "bodyCount": 7,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "LTT 5746": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 11
+    },
+    "Col 285 Sector HS-X b16-2": {
+        "bodyCount": 5,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Hydrae Sector UJ-R b4-4": {
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector PY-R b4-0": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector FB-X b1-4": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "closePlanets": 0
+    },
+    "Crucis Sector JS-T b3-1": {
+        "bodyCount": 9,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Col 285 Sector MI-X b16-5": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 9
+    },
+    "Puppis Sector KR-W b1-6": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 8
+    },
+    "LHS 2149": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 10
+    },
+    "HIP 54597": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 22,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Shui Wei Sector KN-S b4-0": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 15
+    },
+    "Talta": {
+        "bodyCount": 7,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector PI-T b3-10": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 9
+    },
+    "LHS 2435": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "bodies": []
+    },
+    "Puppis Sector NX-U b2-3": {
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Scorpii Sector DG-X b1-0": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 9,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LHS 6179": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 7
+    },
+    "Scorpii Sector ZU-Y b1": {
+        "bodyCount": 16,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector CL-Y d134": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 12,
+        "closePlanets": 0
+    },
+    "Alrai Sector NX-T b3-5": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 5
+    },
+    "Col 285 Sector CB-B b15-1": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 7,
+        "landablePlanetsCount": 0
+    },
+    "Ah Kin": {
+        "bodies": [],
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Antliae Sector DB-X b1-3": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 8,
+        "landablePlanetsCount": 0
+    },
+    "Ereshkigal": {
+        "bodyCount": 6,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector NN-T b3-7": {
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Scorpii Sector DG-X b1-4": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 16,
+        "bodies": []
+    },
+    "Alrai Sector NC-V b2-4": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "closePlanets": 0
+    },
+    "Ferez": {
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LHS 2122": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 13
+    },
+    "Hydrae Sector FW-W b1-0": {
+        "bodyCount": 6,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector SO-R b4-0": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 20,
+        "bodies": []
+    },
+    "Crucis Sector IM-V b2-2": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 9,
+        "closePlanets": 0
+    },
+    "Puppis Sector EL-Y c29": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 14,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector ER-V b2-5": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "Crucis Sector KX-T b3-0": {
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Puppis Sector HM-V b2-5": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 9
+    },
+    "Crucis Sector AA-Z b4": {
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector IW-W b1-2": {
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LHS 1992": {
+        "bodyCount": 8,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LP 501-31": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 10
+    },
+    "RY Sextantis": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 19,
+        "bodies": []
+    },
+    "Crucis Sector KX-T b3-3": {
+        "bodyCount": 10,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "LHS 6171": {
+        "closePlanets": 0,
+        "bodyCount": 6,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector NC-V a2-0": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 9,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Col 285 Sector IC-Z b15-2": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 19,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector IM-V b2-1": {
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Hydrae Sector CB-X b1-3": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Antliae Sector DB-X b1-0": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 11
+    },
+    "LHS 337": {
+        "bodyCount": 13,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Puppis Sector TO-R b4-4": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 33,
+        "bodies": []
+    },
+    "Crucis Sector JW-W b1-1": {
+        "bodies": [],
+        "bodyCount": 20,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector GG-Y c25": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "bodies": []
+    },
+    "Ross 955": {
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 17
+    },
+    "Crucis Sector HW-W b1-6": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector DV-Y b3": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector HW-W b1-7": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "bodies": []
+    },
+    "Col 285 Sector TT-W b16-8": {
+        "closePlanets": 0,
+        "bodyCount": 15,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector LC-V b2-0": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 7,
+        "bodies": []
+    },
+    "DG Canum Venaticorum": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 24,
+        "landablePlanetsCount": 0
+    },
+    "LP 837-53": {
+        "bodies": [],
+        "bodyCount": 7,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "LHS 1978": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 6,
+        "landablePlanetsCount": 0
+    },
+    "Struve 2398": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "closePlanets": 0
+    },
+    "Crucis Sector JX-T b3-3": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 7
+    },
+    "Crucis Sector MD-S b4-1": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 10
+    },
+    "Col 285 Sector QD-S d4-99": {
+        "bodyCount": 9,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector ZK-X b1-5": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 13
+    },
+    "Crucis Sector EQ-Y b8": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 11,
+        "bodies": []
+    },
+    "LHS 2228": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 5,
+        "closePlanets": 0
+    },
+    "Crucis Sector KS-T b3-5": {
+        "closePlanets": 0,
+        "bodyCount": 22,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Col 285 Sector AM-R b19-4": {
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector IC-V b2-1": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "closePlanets": 0
+    },
+    "Hydrae Sector JC-V b2-4": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 9
+    },
+    "Crucis Sector XE-Z b5": {
+        "closePlanets": 0,
+        "bodyCount": 6,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector FB-X b1-4": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 6
+    },
+    "Crucis Sector NN-T b3-8": {
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Col 285 Sector LS-U a32-0": {
+        "bodyCount": 13,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "LHS 1047": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "LHS 2848": {
+        "bodyCount": 7,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector GR-V b2-1": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "LP 462-86": {
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector NS-T b3-3": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 7,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Hydrae Sector UJ-R b4-1": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector HM-V b2-0": {
+        "bodyCount": 8,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Scorpii Sector ZU-Y b2": {
+        "bodyCount": 9,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector BV-Y b4": {
+        "bodyCount": 8,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Placet": {
+        "bodyCount": 41,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Puppis Sector DL-Y d106": {
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 9
+    },
+    "Crucis Sector OY-R b4-6": {
+        "bodyCount": 12,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Hydrae Sector VJ-R b4-5": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 11
+    },
+    "Ross 248": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 20,
+        "bodies": []
+    },
+    "Crucis Sector OY-R b4-4": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LHS 35": {
+        "closePlanets": 0,
+        "bodyCount": 17,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Col 285 Sector RD-Y b15-4": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "HR 5048": {
+        "bodyCount": 30,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Scorpii Sector KB-X a1-0": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 8
+    },
+    "Puppis Sector KR-W b1-5": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector JH-V b2-2": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 16,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector IH-V b2-4": {
+        "bodyCount": 5,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector OY-R b4-1": {
+        "bodies": [],
+        "bodyCount": 13,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector YU-Y b3": {
+        "closePlanets": 0,
+        "bodyCount": 12,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Hydrae Sector OX-U b2-5": {
+        "closePlanets": 0,
+        "bodyCount": 16,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector GW-W b1-2": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 6,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector OI-T b3-1": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 11
+    },
+    "LHS 3484": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 13,
+        "bodies": []
+    },
+    "Crucis Sector FW-W b1-4": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 13,
+        "landablePlanetsCount": 0
+    },
+    "Nefertem": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector PT-R b4-4": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 8
+    },
+    "Crucis Sector SO-R b4-8": {
+        "bodyCount": 8,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Scorpii Sector CQ-Y b4": {
+        "bodyCount": 7,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LFT 655": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 17,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Col 285 Sector HC-Z b15-5": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 19
+    },
+    "Crucis Sector JX-T b3-4": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 9,
+        "landablePlanetsCount": 0
+    },
+    "L 355-62": {
+        "bodies": [],
+        "bodyCount": 6,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Sharru Sector IH-V b2-4": {
+        "bodies": [],
+        "bodyCount": 11,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector DB-X b1-4": {
+        "bodyCount": 17,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector PI-T b3-4": {
+        "bodyCount": 16,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "LHS 2314": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 23,
+        "bodies": []
+    },
+    "Alrai Sector MX-T b3-5": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector CL-Y d73": {
+        "bodyCount": 8,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Wolf 635": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 6,
+        "closePlanets": 0
+    },
+    "Puppis Sector DL-Y d122": {
+        "bodies": [],
+        "bodyCount": 26,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector PI-T b3-7": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 6,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector LH-M a7-0": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "bodies": []
+    },
+    "Antliae Sector GH-V b2-0": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 7,
+        "closePlanets": 0
+    },
+    "Col 285 Sector SJ-W b16-3": {
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector FB-X b1-1": {
+        "bodyCount": 11,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LFT 759": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Col 285 Sector IC-Z b15-0": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 11
+    },
+    "Puppis Sector HW-W b1-6": {
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 11
+    },
+    "Alrai Sector NX-T b3-4": {
+        "closePlanets": 0,
+        "bodyCount": 6,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "V914 Scorpii": {
+        "bodyCount": 13,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Alrai Sector HG-X b1-4": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 11
+    },
+    "Hydrae Sector EW-W b1-4": {
+        "closePlanets": 0,
+        "bodyCount": 8,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Puppis Sector JW-W b1-6": {
+        "bodies": [],
+        "bodyCount": 15,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Core Sys Sector RT-R b4-5": {
+        "closePlanets": 0,
+        "bodyCount": 18,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LFT 1204": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 13,
+        "closePlanets": 0
+    },
+    "NLTT 26813": {
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Wolf 427": {
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector ON-T b3-2": {
+        "bodyCount": 7,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "LHS 1731": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 11,
+        "bodies": []
+    },
+    "Crucis Sector FM-V b2-5": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 16
+    },
+    "Antliae Sector GR-W c1-4": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 22
+    },
+    "LP 378-541": {
+        "closePlanets": 0,
+        "bodyCount": 12,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Nessa": {
+        "bodyCount": 11,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector TO-R b4-0": {
+        "bodies": [],
+        "bodyCount": 12,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector CL-X b1-6": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 18,
+        "landablePlanetsCount": 0
+    },
+    "LP 389-95": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 9
+    },
+    "Crucis Sector QI-T b3-7": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "LP 374-6": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 5,
+        "bodies": []
+    },
+    "Col 285 Sector ON-Y b15-0": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 6,
+        "bodies": []
+    },
+    "LHS 368": {
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Sharru Sector HM-V b2-1": {
+        "bodyCount": 5,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Puppis Sector JW-W b1-5": {
+        "bodyCount": 12,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector JW-W b1-8": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector YJ-R a4-1": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 8
+    },
+    "Crucis Sector MD-S b4-6": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 7,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector HM-V b2-4": {
+        "bodies": [],
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Ross 622": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 12
+    },
+    "Hydrae Sector DQ-Y b4": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 8
+    },
+    "Crucis Sector OI-T b3-7": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 7,
+        "closePlanets": 0
+    },
+    "Ross 122": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "Hydrae Sector IC-V b2-3": {
+        "bodyCount": 9,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector LS-T b3-1": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 7
+    },
+    "Crucis Sector AL-X b1-5": {
+        "bodyCount": 13,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector GH-V b2-0": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "landablePlanetsCount": 0
+    },
+    "LP 658-44": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 9
+    },
+    "LHS 3056": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 19,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector ST-R b4-3": {
+        "bodyCount": 9,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector TO-R b4-7": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 7
+    },
+    "Alrai Sector JR-V b2-6": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 13,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Crucis Sector RO-R b4-4": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "bodies": []
+    },
+    "Antliae Sector FW-W b1-5": {
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 14
+    },
+    "Hydrae Sector CL-Y d93": {
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 8
+    },
+    "Crucis Sector FM-V b2-4": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 14,
+        "closePlanets": 0
+    },
+    "Sharru Sector LS-T b3-1": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 9,
+        "bodies": []
+    },
+    "Antliae Sector JC-V b2-2": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector NN-T b3-4": {
+        "bodies": [],
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Volsung": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "Crucis Sector MC-V b2-1": {
+        "bodyCount": 12,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "HD 122510": {
+        "bodyCount": 40,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Puppis Sector OX-U b2-6": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 17,
+        "closePlanets": 0
+    },
+    "Crucis Sector FB-X b1-2": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector RI-T b3-2": {
+        "bodyCount": 10,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector PN-T b3-1": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "Col 285 Sector LX-Y b15-7": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "Crucis Sector IM-V b2-4": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 16
+    },
+    "Fianna": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 5,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector MN-T b3-4": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "Hydrae Sector AV-Y b2": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 9
+    },
+    "Crucis Sector RO-R b4-3": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 9,
+        "closePlanets": 0
+    },
+    "Crucis Sector PY-R b4-6": {
+        "bodyCount": 5,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Col 285 Sector ZL-R b19-6": {
+        "bodyCount": 9,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector PN-T b3-6": {
+        "bodies": [],
+        "bodyCount": 11,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Sharru Sector LH-V b2-1": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "bodies": []
+    },
+    "Crucis Sector CL-Y d164": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 7,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector TO-R b4-2": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 14
+    },
+    "Crucis Sector HH-V b2-4": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Crucis Sector ZE-A d124": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 13
+    },
+    "Crucis Sector FB-X b1-3": {
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector YP-X b1-0": {
+        "bodyCount": 7,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LHS 2206": {
+        "bodyCount": 8,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector OD-S b4-6": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 12,
+        "closePlanets": 0
+    },
+    "Core Sys Sector ON-T b3-7": {
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 10
+    },
+    "LP 561-36": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "bodies": []
+    },
+    "WD 1207-032": {
+        "bodyCount": 13,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Puppis Sector ON-T b3-5": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 11,
+        "bodies": []
+    },
+    "Crucis Sector NY-R b4-7": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 9
+    },
+    "Crucis Sector LC-V b2-6": {
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector HH-V b2-3": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector OX-U b2-2": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 11,
+        "bodies": []
+    },
+    "Socanti": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector AA-Z b3": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 13
+    },
+    "Puppis Sector CV-Y b4": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 22,
+        "bodies": []
+    },
+    "Scorpii Sector CQ-Y b3": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 12,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector WU-P b5-1": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "bodies": []
+    },
+    "Crucis Sector MS-T b3-0": {
+        "closePlanets": 0,
+        "bodyCount": 15,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Col 285 Sector GR-W a31-0": {
+        "bodyCount": 13,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Sharru Sector LS-T b3-2": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 16,
+        "bodies": []
+    },
+    "Saxon": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 7
+    },
+    "Crucis Sector AA-Z b6": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector GW-W b1-4": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "Crucis Sector MC-V b2-3": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 9
+    },
+    "Crucis Sector VZ-P b5-6": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 9
+    },
+    "Crucis Sector FR-V b2-1": {
+        "bodies": [],
+        "bodyCount": 17,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Yin Sector IW-W b1-2": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 8,
+        "bodies": []
+    },
+    "Hydrae Sector LC-V b2-1": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 6,
+        "bodies": []
+    },
+    "Crucis Sector NS-T b3-4": {
+        "closePlanets": 0,
+        "bodyCount": 6,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LHS 3583": {
+        "bodies": [],
+        "bodyCount": 12,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Shui Wei Sector CB-W b2-2": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": []
+    },
+    "LHS 1935": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector QT-R b4-5": {
+        "bodyCount": 11,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Penglai": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 7,
+        "landablePlanetsCount": 0
+    },
+    "Col 285 Sector VE-R a34-0": {
+        "closePlanets": 0,
+        "bodyCount": 23,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector CW-V b2-4": {
+        "closePlanets": 0,
+        "bodyCount": 14,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Col 285 Sector MS-Y b15-7": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 9
+    },
+    "Crucis Sector MI-T b3-6": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 12
+    },
+    "Alrai Sector KM-V b2-5": {
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "LHS 40": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Hydrae Sector MN-T b3-2": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 8
+    },
+    "Shui Wei Sector KN-S b4-6": {
+        "bodyCount": 11,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Core Sys Sector SO-R b4-5": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 12,
+        "closePlanets": 0
+    },
+    "Crucis Sector RT-R b4-3": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 11,
+        "closePlanets": 0
+    },
+    "Crucis Sector JM-V b2-6": {
+        "bodies": [],
+        "bodyCount": 6,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector FB-X b1-8": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "bodies": []
+    },
+    "Sharru Sector LH-V b2-3": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 7,
+        "bodies": []
+    },
+    "Puppis Sector GB-X b1-5": {
+        "closePlanets": 0,
+        "bodyCount": 17,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Scorpii Sector CQ-Y b9": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 6,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector DB-X b1-1": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 7,
+        "bodies": []
+    },
+    "Sharru Sector FB-X b1-4": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector ZP-X b1-2": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector ON-T b3-3": {
+        "bodyCount": 9,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Puppis Sector HM-V b2-2": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector EQ-P a5-2": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 9,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector PY-R b4-7": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector MC-V b2-5": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Crucis Sector FW-W b1-7": {
+        "closePlanets": 0,
+        "bodyCount": 12,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector LH-V b2-3": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Diadem": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Col 285 Sector ON-Y b15-5": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 10
+    },
+    "Crucis Sector IH-V b2-5": {
+        "bodyCount": 7,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "LP 557-46": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 19,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector PN-T b3-3": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 8
+    },
+    "L 484-31": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 13,
+        "landablePlanetsCount": 0
+    },
+    "LFT 814": {
+        "closePlanets": 0,
+        "bodyCount": 18,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector HM-V b2-1": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Thuleppa": {
+        "landablePlanetsCount": 9,
+        "closePlanets": 8,
+        "bodies": [
+            {
+                "systemName": "Thuleppa",
+                "type": "",
+                "distanceToArrival": 0,
+                "name": "Thuleppa Core Sys Sector JH-M a7-0"
+            },
+            {
+                "isLandable": true,
+                "gravity": 0.15364478336123505,
+                "systemName": "Thuleppa",
+                "type": "",
+                "distanceToArrival": 1377,
+                "name": "Thuleppa Core Sys Sector JH-M a7-0 8"
+            },
+            {
+                "isLandable": true,
+                "systemName": "Thuleppa",
+                "name": "Thuleppa Core Sys Sector JH-M a7-0 1",
+                "distanceToArrival": 312,
+                "type": "",
+                "gravity": 0.11934214190722987
+            },
+            {
+                "name": "Thuleppa Core Sys Sector JH-M a7-0 3",
+                "type": "",
+                "gravity": 0.11311842974251618,
+                "systemName": "Thuleppa",
+                "distanceToArrival": 499,
+                "isLandable": true
+            },
+            {
+                "gravity": 0.04815112933202855,
+                "systemName": "Thuleppa",
+                "distanceToArrival": 408,
+                "name": "Thuleppa Core Sys Sector JH-M a7-0 2 a",
+                "isLandable": false,
+                "type": ""
+            },
+            {
+                "name": "Thuleppa Core Sys Sector JH-M a7-0 2",
+                "distanceToArrival": 408,
+                "gravity": 0.14556653688245194,
+                "type": "",
+                "systemName": "Thuleppa",
+                "isLandable": true
+            },
+            {
+                "distanceToArrival": 948,
+                "type": "",
+                "isLandable": true,
+                "name": "Thuleppa Core Sys Sector JH-M a7-0 6",
+                "gravity": 0.118501812101636,
+                "systemName": "Thuleppa"
+            },
+            {
+                "distanceToArrival": 947,
+                "name": "Thuleppa Core Sys Sector JH-M a7-0 5",
+                "systemName": "Thuleppa",
+                "gravity": 0.12494152589147256,
+                "isLandable": true,
+                "type": ""
+            },
+            {
+                "systemName": "Thuleppa",
+                "name": "Thuleppa Core Sys Sector JH-M a7-0 7",
+                "distanceToArrival": 1119,
+                "type": "",
+                "gravity": 0.164327791122644,
+                "isLandable": true
+            },
+            {
+                "type": "",
+                "name": "Thuleppa Core Sys Sector JH-M a7-0 4",
+                "systemName": "Thuleppa",
+                "distanceToArrival": 741,
+                "gravity": 0.11502535720087774,
+                "isLandable": true
+            },
+            {
+                "distanceToArrival": 3284,
+                "type": "",
+                "isLandable": true,
+                "gravity": 0.224913961510994,
+                "name": "Thuleppa Core Sys Sector JH-M a7-0 9",
+                "systemName": "Thuleppa"
+            }
+        ],
+        "bodyCount": 11
+    },
+    "Col 285 Sector PD-X b16-3": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 10
+    },
+    "LTT 4170": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "LP 658-72": {
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector FG-X b1-6": {
+        "bodyCount": 9,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Shen Di": {
+        "landablePlanetsCount": 2,
+        "bodyCount": 11,
+        "closePlanets": 6,
+        "bodies": [
+            {
+                "distanceToArrival": 0,
+                "type": "",
+                "name": "Shen Di Crucis Sector EH-M a7-1",
+                "systemName": "Shen Di"
+            },
+            {
+                "type": "",
+                "isLandable": false,
+                "name": "Shen Di Crucis Sector EH-M a7-1 7",
+                "distanceToArrival": 2816,
+                "systemName": "Shen Di",
+                "gravity": 0.565520832228091
+            },
+            {
+                "name": "Shen Di Crucis Sector EH-M a7-1 4",
+                "isLandable": false,
+                "distanceToArrival": 942,
+                "type": "",
+                "gravity": 0.6043813339568032,
+                "systemName": "Shen Di"
+            },
+            {
+                "type": "",
+                "distanceToArrival": 944,
+                "gravity": 0.19933332316443714,
+                "systemName": "Shen Di",
+                "isLandable": true,
+                "name": "Shen Di Crucis Sector EH-M a7-1 4 a"
+            },
+            {
+                "name": "Shen Di Crucis Sector EH-M a7-1 3",
+                "distanceToArrival": 631,
+                "type": "",
+                "gravity": 0.5080593617590671,
+                "systemName": "Shen Di",
+                "isLandable": false
+            },
+            {
+                "isLandable": false,
+                "systemName": "Shen Di",
+                "name": "Shen Di Crucis Sector EH-M a7-1 2",
+                "distanceToArrival": 497,
+                "gravity": 0.6651958652402962,
+                "type": ""
+            },
+            {
+                "gravity": 0.7322805927912227,
+                "systemName": "Shen Di",
+                "distanceToArrival": 374,
+                "type": "",
+                "name": "Shen Di Crucis Sector EH-M a7-1 1",
+                "isLandable": false
+            },
+            {
+                "gravity": 0.7430134348610216,
+                "systemName": "Shen Di",
+                "type": "",
+                "name": "Shen Di Crucis Sector EH-M a7-1 8",
+                "isLandable": false,
+                "distanceToArrival": 4896
+            },
+            {
+                "name": "Shen Di Crucis Sector EH-M a7-1 8 a",
+                "type": "",
+                "distanceToArrival": 4897,
+                "isLandable": true,
+                "gravity": 0.2576041405762454,
+                "systemName": "Shen Di"
+            },
+            {
+                "name": "Shen Di Crucis Sector EH-M a7-1 5",
+                "isLandable": false,
+                "systemName": "Shen Di",
+                "type": "",
+                "gravity": 0.6858869692849687,
+                "distanceToArrival": 1904
+            },
+            {
+                "gravity": 0.5787095982108559,
+                "systemName": "Shen Di",
+                "type": "",
+                "name": "Shen Di Crucis Sector EH-M a7-1 6",
+                "distanceToArrival": 1920,
+                "isLandable": false
+            }
+        ]
+    },
+    "Col 285 Sector DM-Z b15-2": {
+        "bodies": [],
+        "bodyCount": 7,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Yin Sector GR-V b2-0": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "bodies": []
+    },
+    "Col 285 Sector CL-N c7-19": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 18
+    },
+    "Crucis Sector IM-V b2-5": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 18,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector KH-V b2-4": {
+        "bodyCount": 19,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LP 605-37": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 12,
+        "closePlanets": 0
+    },
+    "Antliae Sector NI-T b3-3": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 9,
+        "bodies": []
+    },
+    "Hydrae Sector SD-T b3-5": {
+        "bodyCount": 12,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector OX-U b2-5": {
+        "bodyCount": 13,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector QY-R b4-6": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector JS-T b3-8": {
+        "bodies": [],
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector GB-X b1-2": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 16,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Sharru Sector JH-V b2-3": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 11,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Crucis Sector AQ-Y c25": {
+        "closePlanets": 0,
+        "bodyCount": 6,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Alrai Sector JR-V b2-4": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector LC-V b2-2": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 12,
+        "closePlanets": 0
+    },
+    "Col 285 Sector LT-V b17-2": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 7,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Scorpii Sector BQ-Y b5": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "CQ Tucani": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector AA-Z b1": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 14
+    },
+    "Crucis Sector PT-R b4-5": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 14,
+        "bodies": []
+    },
+    "LP 855-10": {
+        "bodyCount": 7,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "GL 867 B": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Puppis Sector ON-T b3-2": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Col 285 Sector LT-V b17-3": {
+        "closePlanets": 0,
+        "bodyCount": 5,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LHS 2661": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 50,
+        "closePlanets": 0
+    },
+    "Puppis Sector QD-T b3-6": {
+        "closePlanets": 0,
+        "bodyCount": 12,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Shui Wei Sector GH-U b3-7": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "LTT 692": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 8,
+        "bodies": []
+    },
+    "Crucis Sector CL-X b1-1": {
+        "bodyCount": 9,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector MC-V b2-2": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "closePlanets": 0
+    },
+    "Hydrae Sector HW-W b1-1": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 6,
+        "bodies": []
+    },
+    "LHS 3205": {
+        "closePlanets": 0,
+        "bodyCount": 21,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector BV-P a5-1": {
+        "bodies": [],
+        "bodyCount": 22,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Scorpii Sector GB-X b1-4": {
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Hydrae Sector IH-V b2-0": {
+        "bodyCount": 15,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LP 855-14": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector MI-T b3-1": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0
+    },
+    "LHS 3316": {
+        "bodies": [],
+        "bodyCount": 15,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector LH-V b2-2": {
+        "closePlanets": 0,
+        "bodyCount": 7,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector IC-U b3-2": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 5
+    },
+    "Crucis Sector OI-T b3-4": {
+        "bodyCount": 22,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector ST-R b4-7": {
+        "bodyCount": 7,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector MC-V b2-6": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 8,
+        "closePlanets": 0
+    },
+    "Hydrae Sector CB-X b1-1": {
+        "closePlanets": 0,
+        "bodyCount": 13,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector IM-V b2-6": {
+        "closePlanets": 0,
+        "bodyCount": 20,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Alrai Sector IR-V b2-1": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 9
+    },
+    "HR 2354": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 22,
+        "bodies": []
+    },
+    "LHS 3277": {
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Teegarden's Star": {
+        "closePlanets": 0,
+        "bodyCount": 8,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Sharru Sector KC-V b2-6": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 22
+    },
+    "LFT 507": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 5
+    },
+    "Tuoni": {
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 5
+    },
+    "LFT 764": {
+        "bodyCount": 5,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector ER-V b2-2": {
+        "closePlanets": 0,
+        "bodyCount": 12,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector IM-V b2-3": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 9,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector KH-V b2-3": {
+        "bodyCount": 12,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector IC-V b2-5": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "closePlanets": 0
+    },
+    "Crucis Sector TO-R b4-1": {
+        "bodyCount": 11,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector HX-T b3-5": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 12,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Crucis Sector IW-W b1-4": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector IW-W b1-7": {
+        "bodyCount": 23,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector OY-R b4-3": {
+        "bodies": [],
+        "bodyCount": 14,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector PY-R b4-1": {
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "HIP 58121": {
+        "bodyCount": 27,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector RO-R b4-6": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 8,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector IS-T b3-5": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 18,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector GB-X b1-7": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "Crucis Sector PY-R b4-4": {
+        "bodyCount": 5,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector LS-T b3-4": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 23,
+        "closePlanets": 0
+    },
+    "Agni": {
+        "bodyCount": 20,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector KX-T b3-2": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 17,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector ON-T b3-5": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "Scorpii Sector BL-X b1-1": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 8
+    },
+    "Sharru Sector GB-X b1-4": {
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Puppis Sector IM-V b2-0": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 7,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Shui Wei Sector DB-W b2-5": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "closePlanets": 0
+    },
+    "Xi Scorpii": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 7,
+        "landablePlanetsCount": 0
+    },
+    "AD Leonis": {
+        "closePlanets": 0,
+        "bodyCount": 22,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector PI-T b3-3": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 14,
+        "landablePlanetsCount": 0
+    },
+    "AU Microscopii": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 15,
+        "landablePlanetsCount": 0
+    },
+    "Scorpii Sector CQ-Y b2": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Tascheter Sector GW-W c1-17": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 11
+    },
+    "BPM 17113": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 12
+    },
+    "Crucis Sector NN-T b3-1": {
+        "bodyCount": 20,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "BPM 14175": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 8
+    },
+    "Col 285 Sector PD-X b16-1": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 6,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Chronos": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Yin Sector GW-W c1-26": {
+        "bodyCount": 6,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LP 432-24": {
+        "closePlanets": 0,
+        "bodyCount": 17,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Hydrae Sector JC-V b2-2": {
+        "bodyCount": 11,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Wolf 1494": {
+        "closePlanets": 0,
+        "bodyCount": 7,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector YP-X b1-1": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 10
+    },
+    "Col 285 Sector NS-Y b15-4": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 9
+    },
+    "Crucis Sector QY-R b4-1": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 10
+    },
+    "Hydrae Sector AV-Y b5": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 17,
+        "bodies": []
+    },
+    "Crucis Sector QT-R b4-1": {
+        "bodyCount": 18,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector NN-T b3-3": {
+        "bodyCount": 11,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector NY-R b4-1": {
+        "bodyCount": 6,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Wolf 630": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 5
+    },
+    "Crucis Sector EL-Y c23": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 15,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "LTT 6377": {
+        "bodies": [],
+        "bodyCount": 8,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "LHS 3221": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 10
+    },
+    "LHS 3413": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 5,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LHS 47": {
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Col 285 Sector LT-V b17-4": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 12,
+        "closePlanets": 0
+    },
+    "Puppis Sector SD-T b3-0": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 18,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Crucis Sector QT-R b4-6": {
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "LP 567-20": {
+        "closePlanets": 0,
+        "bodyCount": 14,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Belenos": {
+        "bodyCount": 14,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Puppis Sector HW-W b1-5": {
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector XU-P b5-7": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 10
+    },
+    "LHS 1827": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 12
+    },
+    "Crucis Sector PN-T b3-5": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 11
+    },
+    "Crucis Sector FM-V b2-0": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 7
+    },
+    "Crucis Sector PT-R b4-3": {
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector KS-T b3-1": {
+        "bodies": [],
+        "bodyCount": 15,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector OI-T b3-1": {
+        "bodyCount": 9,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "LP 687-31": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 5,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Crucis Sector LH-V b2-5": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "bodies": []
+    },
+    "LP 911-13": {
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Crucis Sector NI-T b3-5": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 10
+    },
+    "HIP 55014": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 15,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Hydrae Sector FW-W b1-1": {
+        "bodyCount": 8,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector CL-Y d107": {
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Core Sys Sector TO-R b4-6": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Alrai Sector OC-V b2-4": {
+        "bodyCount": 6,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Col 285 Sector AM-R b19-5": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector YE-A d101": {
+        "bodyCount": 5,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Scorpii Sector WE-Z b3": {
+        "bodies": [],
+        "bodyCount": 7,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector NN-T b3-6": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector IW-W b1-6": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 8,
+        "bodies": []
+    },
+    "Puppis Sector GB-X b1-2": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 9,
+        "bodies": []
+    },
+    "Crucis Sector MC-V b2-5": {
+        "bodies": [],
+        "bodyCount": 7,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector OI-T b3-0": {
+        "closePlanets": 0,
+        "bodyCount": 8,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LHS 2509": {
+        "bodyCount": 21,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "CF 14857": {
+        "closePlanets": 0,
+        "bodyCount": 15,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Alrai Sector LH-V b2-6": {
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Sharru Sector GM-V b2-1": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 21,
+        "landablePlanetsCount": 0
+    },
+    "LP 857-29": {
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Scorpii Sector FB-X b1-3": {
+        "bodyCount": 8,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector OX-U b2-4": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 11,
+        "bodies": []
+    },
+    "Crucis Sector LC-V b2-1": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 8
+    },
+    "Hydrae Sector DB-X b1-3": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 9
+    },
+    "G 41-9": {
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector GM-V b2-2": {
+        "bodies": [],
+        "bodyCount": 13,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector HW-W b1-0": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 9
+    },
+    "LP 892-51": {
+        "bodies": [],
+        "bodyCount": 9,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector KX-T b3-1": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 9
+    },
+    "LHS 412": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 8,
+        "closePlanets": 0
+    },
+    "Crucis Sector LS-T b3-5": {
+        "closePlanets": 0,
+        "bodyCount": 19,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Puppis Sector OI-T b3-6": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 12
+    },
+    "Sharru Sector IH-V b2-3": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 6,
+        "bodies": []
+    },
+    "LHS 1552": {
+        "bodyCount": 13,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Col 285 Sector IM-L c8-13": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 11
+    },
+    "Crucis Sector NY-R b4-0": {
+        "bodies": [],
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Crucis Sector ST-R b4-4": {
+        "closePlanets": 0,
+        "bodyCount": 14,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Scorpii Sector FB-X b1-2": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 10,
+        "landablePlanetsCount": 0
+    },
+    "Hydrae Sector JC-V b2-0": {
+        "closePlanets": 0,
+        "bodyCount": 5,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LHS 3719": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 21,
+        "bodies": []
+    },
+    "Puppis Sector NX-U b2-7": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 12,
+        "bodies": []
+    },
+    "Col 285 Sector HS-X b16-0": {
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LP 437-12": {
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector ON-T b3-4": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 9,
+        "bodies": []
+    },
+    "Shui Wei Sector GH-U b3-3": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 9
+    },
+    "Alrai Sector GW-V b2-3": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "bodies": []
+    },
+    "Puppis Sector HM-V b2-3": {
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 11
+    },
+    "LHS 2657": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "bodyCount": 17,
+        "closePlanets": 0
+    },
+    "LP 546-48": {
+        "bodyCount": 17,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Puppis Sector JC-M a7-1": {
+        "bodyCount": 11,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector RT-R b4-5": {
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector FM-V b2-1": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 6
+    },
+    "Crucis Sector LX-T b3-2": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 14
+    },
+    "Puppis Sector JR-N a6-0": {
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Col 285 Sector VE-V b17-8": {
+        "bodyCount": 24,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector ZE-A d139": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 10,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "LHS 253": {
+        "bodyCount": 6,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Puppis Sector MC-V b2-6": {
+        "bodyCount": 9,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Sharru Sector JH-V b2-4": {
+        "bodyCount": 8,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "LP 319-68": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 11,
+        "bodies": []
+    },
+    "Puppis Sector QI-T b3-3": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 16
+    },
+    "Ross 489": {
+        "bodies": [],
+        "bodyCount": 6,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Col 285 Sector JD-T a33-0": {
+        "bodyCount": 7,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector MC-V b2-8": {
+        "bodies": [],
+        "bodyCount": 11,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector IR-W c1-29": {
+        "bodyCount": 5,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "AN Sextantis": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 8,
+        "bodies": []
+    },
+    "Core Sys Sector PN-T b3-3": {
+        "closePlanets": 0,
+        "bodyCount": 18,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector ST-R b4-0": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 24,
+        "closePlanets": 0
+    },
+    "LHS 2699": {
+        "bodyCount": 7,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector RT-R b4-2": {
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 9
+    },
+    "Hydrae Sector EQ-Y b1": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 6,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector NN-T b3-5": {
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 11,
+        "landablePlanetsCount": 0
+    },
+    "LFT 1061": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 21
+    },
+    "Hydrae Sector GB-X b1-0": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 9,
+        "closePlanets": 0
+    },
+    "Shu": {
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Crucis Sector PT-R b4-7": {
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "Eva's Hush": {
+        "bodyCount": 17,
+        "closePlanets": 0,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector DG-X b1-3": {
+        "bodyCount": 11,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "LHS 2320": {
+        "bodies": [],
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Scorpii Sector BL-X b1-0": {
+        "closePlanets": 0,
+        "bodyCount": 5,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector IW-W b1-3": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 11
+    },
+    "LPM 101": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodyCount": 8,
+        "bodies": []
+    },
+    "Crucis Sector IM-V b2-0": {
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "Puppis Sector PI-T b3-5": {
+        "bodyCount": 11,
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": []
+    },
+    "LHS 2552": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "closePlanets": 0,
+        "bodyCount": 12
+    },
+    "NN 3709": {
+        "bodyCount": 23,
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "Puppis Sector BV-Y b5": {
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 18,
+        "closePlanets": 0
+    },
+    "Crucis Sector ST-R b4-8": {
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 9,
+        "landablePlanetsCount": 0
+    },
+    "Scorpii Sector ZU-Y b3": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 11
+    },
+    "Crucis Sector LH-V b2-6": {
+        "bodies": [],
+        "bodyCount": 8,
+        "closePlanets": 0,
+        "landablePlanetsCount": 0
+    },
+    "LP 904-36": {
+        "landablePlanetsCount": 0,
+        "closePlanets": 0,
+        "bodies": [],
+        "bodyCount": 9
+    },
+    "Alrai Sector GW-V b2-2": {
+        "bodies": [],
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 9
+    },
+    "Ormt": {
+        "closePlanets": 0,
+        "bodyCount": 12,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Crucis Sector FW-W b1-5": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodyCount": 7,
+        "bodies": []
+    },
+    "LFT 1005": {
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0,
+        "closePlanets": 0
+    },
+    "Puppis Sector FB-X b1-2": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "bodies": [],
+        "landablePlanetsCount": 0
+    },
+    "Crucis Sector SO-R b4-4": {
+        "closePlanets": 0,
+        "bodyCount": 12,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "Puppis Sector GB-X b1-4": {
+        "closePlanets": 0,
+        "bodyCount": 10,
+        "landablePlanetsCount": 0,
+        "bodies": []
+    },
+    "WX Ursae Majoris": {
+        "landablePlanetsCount": 0,
+        "bodyCount": 6,
+        "bodies": [],
+        "closePlanets": 0
+    },
+    "LAWD 68": {
+        "closePlanets": 0,
+        "landablePlanetsCount": 0,
+        "bodies": [],
+        "bodyCount": 18
+    }
+}
